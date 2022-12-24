@@ -1,13 +1,15 @@
 # Mini-Bank-Web-App
 This is a mini bank app which have some basic functionality like transfer money, get a loan and close account.
 
-User id : ng 
-password : 1111
+### User id : ng 
+### password : 1111
+
 ------------------------------------------
-               OR
+                                                                  OR USE
 ------------------------------------------
-User id : sg 
-password : 2222
+
+### User id : sg 
+### password : 2222
 
 
 Enter any of the above user id and password into login field and press enter to get logged in.
